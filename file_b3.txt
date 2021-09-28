@@ -1,3 +1,4 @@
 Adding a new file in a new branch
 
-Adding text to be commited with a detailed message
+
+adding something to branch3. new!
